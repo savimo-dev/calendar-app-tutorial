@@ -1,4 +1,4 @@
-import Event from "../models/EventModel";
+import Event from "../models/eventModel";
 import mongoose from "mongoose";
 
 // get all Events
